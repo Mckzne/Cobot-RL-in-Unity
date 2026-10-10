@@ -48,12 +48,12 @@ B.Tech Mechatronics, Manipal Institute of Technology (MIT), Manipal
 
 | Phase | Description | Progress |
 |-------|-------------|----------|
-| Phase 1 | Simulation & Reinforcement Learning Setup | ✅ Completed (50%) |
+| Phase 1 | Simulation & Reinforcement Learning Setup | Completed (50%) |
 | Phase 2 | Inference, Vision, & TinyML Deployment | 🔲 To Do (50%) |
 
 ---
 
-## ✅ Completed: Phase 1 (Simulation & Reinforcement Learning Setup)
+## Completed: Phase 1 (Simulation & Reinforcement Learning Setup)
 
 - **Environment Initialization:** Configured the Unity 6 ML-Agents toolkit to bridge 3D physics with a Python machine learning backend.
 - **Robot Kinematics:** Imported the Niryo One collaborative robot via URDF and anchored the `base_link` to the world.
